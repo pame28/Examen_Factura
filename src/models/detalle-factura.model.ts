@@ -2,6 +2,7 @@ import {belongsTo, Entity, model, property} from '@loopback/repository';
 import {Factura} from './factura.model';
 import {Producto} from './producto.model';
 //Pameeeee
+//Nicole
 //suazo
 @model({settings: {strict: false}})
 export class DetalleFactura extends Entity {
